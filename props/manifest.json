@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "files": {
+  "bab_gate": "bab_gate.glb",
+  "car_sedan": "car_sedan.glb",
+  "car_pickup": "car_pickup.glb",
+  "car_4x4": "car_4x4.glb",
+  "bab_windtower": "bab_windtower.glb",
+  "fort_gate": "fort_gate.glb",
+  "fort_tower": "fort_tower.glb",
+  "coast_dhow": "coast_dhow.glb",
+  "coast_barasti": "coast_barasti.glb",
+  "coast_gargoor": "coast_gargoor.glb",
+  "coast_boat": "coast_boat.glb",
+  "freej_house": "freej_house.glb",
+  "roof_tanks": "roof_tanks.glb",
+  "sakhir_tent": "sakhir_tent.glb",
+  "sakhir_camel": "sakhir_camel.glb",
+  "majlis_door": "majlis_door.glb",
+  "majlis_chandelier": "majlis_chandelier.glb",
+  "ws_toolchest": "ws_toolchest.glb",
+  "majlis_coffee": "majlis_coffee.glb",
+  "ws_bench": "ws_bench.glb",
+  "ws_tyres": "ws_tyres.glb",
+  "ws_compressor": "ws_compressor.glb",
+  "souq_spice": "souq_spice.glb",
+  "souq_textile": "souq_textile.glb",
+  "souq_lantern": "souq_lantern.glb",
+  "roof_stairhut": "roof_stairhut.glb"
+ }
+}

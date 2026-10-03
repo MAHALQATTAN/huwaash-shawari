@@ -1,0 +1,29 @@
+{
+  "v": 1,
+  "files": [
+    "icons/abdulla.webp",
+    "icons/ali.webp",
+    "icons/dana.webp",
+    "icons/falafel.webp",
+    "icons/hamad.webp",
+    "icons/jassim.webp",
+    "icons/mai.webp",
+    "icons/maryam.webp",
+    "icons/ria.webp",
+    "icons/salman.webp",
+    "icons/yousef.webp",
+    "keyart/menu.webp",
+    "keyart/title.webp",
+    "arcade/jassim.webp",
+    "arcade/salman.webp",
+    "arcade/hamad.webp",
+    "arcade/abdulla.webp",
+    "arcade/ali.webp",
+    "arcade/yousef.webp",
+    "arcade/falafel.webp",
+    "arcade/ria.webp",
+    "arcade/maryam.webp",
+    "arcade/dana.webp",
+    "arcade/mai.webp"
+  ]
+}
